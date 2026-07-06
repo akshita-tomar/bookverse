@@ -1,0 +1,8 @@
+export enum BookType {
+    FICTION = "FICTION",
+    ROMANCE = "ROMANCE",
+    MYSTERY = "MYSTERY",
+    THRILLER = "THRILLER",
+    FANTASY = "FANTASY",
+    BIOGRAPHY = "BIOGRAPHY"
+}
